@@ -1,6 +1,8 @@
 # Neural-Network-Visualizer
 Designed and implemented a Neural Network Visualizer web application using Python, Streamlit, Keras, and Flask. This application facilitates the visualization of various layers within a neural network, providing valuable insights into the internal workings of neural networks.
 
+I used minist dataset in this project but we can also use other datsets as well.
+
 ![image](https://github.com/HarshithaVemuri24/Neural-Network-Visualizer/assets/91493643/bf16dce4-d397-440e-9ce8-82b1a5de28af)
 ![image](https://github.com/HarshithaVemuri24/Neural-Network-Visualizer/assets/91493643/7d43f5b5-90b3-4261-bd47-ad0b8c830088)
 
